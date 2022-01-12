@@ -1,0 +1,11 @@
+const Login ="login";
+const Home ='home';
+const Categories ='categories';
+const Favorites ='favorites';
+const Profile= 'profile';
+const UpdateProfile = 'update-profile';
+const Register ='register';
+const logout = 'logout';
+const search = 'products/search';
+const Carts ='carts';
+const changepassword ='change-password';
