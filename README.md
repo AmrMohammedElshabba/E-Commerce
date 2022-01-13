@@ -20,7 +20,6 @@ https://user-images.githubusercontent.com/97626133/149251997-873f485a-dc80-4c23-
 
 ## Screen shots
 
-![Screenshot_2022-01-12-22-45-26-581_com example e_commerce](https://user-images.githubusercontent.com/97626133/149252258-11ae6cbb-cef8-4b1f-8710-c94e7ded4a64.jpg)
 ![Screenshot_2022-01-12-22-36-42-241_com example e_commerce](https://user-images.githubusercontent.com/97626133/149252271-cf948aa4-e1c3-4cff-9693-d23e6407c117.jpg)
 ![Screenshot_2022-01-12-22-36-52-495_com example e_commerce](https://user-images.githubusercontent.com/97626133/149252277-43cce1c1-7b0e-422e-8118-be246bdabd6f.jpg)
 ![Screenshot_2022-01-12-22-44-21-772_com example e_commerce](https://user-images.githubusercontent.com/97626133/149252285-56e3b7d7-6435-446c-b8ee-191f54dcb0a5.jpg)
